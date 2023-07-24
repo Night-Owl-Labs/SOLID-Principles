@@ -117,13 +117,13 @@ A quick look at the top-level files and directories in this project. The example
     └── .gitignore
 
 ## License
-This repository is released under the **MITLicense**. [See LICENSE](LICENSE) for details.
+This repository is released under the **MIT License**. [See LICENSE](LICENSE) for details.
 
 ## Credit
 **Author:** [Scott Grivner](https://github.com/scottgriv)<br>
 **Email:** scott.grivner@nightowllabs.net<br>
 **Website:** [nightowllabs.net](https://www.nightowllabs.net)<br>
-**Reference:** [Main Branch](https://github.com/Night-Owl-Labs/java-solid_principles)
+**Reference:** [Main Branch](https://github.com/Night-Owl-Labs/Solid-Principles)
 <div align="center">
     <a href="https://github.com/Night-Owl-Labs" target="_blank">
         <img src="./docs/images/NOL.png" style="width: 100px; height: 100px;" />
