@@ -15,7 +15,7 @@ Since their introduction in the paper and further elaboration in the book, the S
 ### 1. Single Responsibility Principle (SRP):
 The SRP states that a class should have only one reason to change. It means that a class should have one primary responsibility and should not take on multiple unrelated responsibilities. By adhering to SRP, code becomes more maintainable, as changes to one responsibility are less likely to affect other parts of the system.
 
-**SRP - Coupling and Cohesion**
+**SRP - Coupling and Cohesion**<br>
 The Single responsibility principle is closely related to the concepts of coupling and cohesion.
 
 **Cohesion** refers to what a class or module can **do**. When a class has *low cohesion*, it means that it does a great variety of actions and in that, the class is unfocused on what it should do. *High cohesion* means that the class is focused on what it should be doing as it contains only methods relating to the intention of the class.
@@ -24,7 +24,7 @@ The Single responsibility principle is closely related to the concepts of coupli
 
 Good software design consists of classes or modules with **high cohesion** and **low coupling**.
 
-**Uncle Bob on SRP**
+**Uncle Bob on SRP**<br>
 [Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) (Uncle Bob) states that we define each responsibility of a class as a reason for change. If there is more than one reason to change a class, it probably has more than one responsibility.
 
 > Gather together the things that change for the same reasons. Separate those things that change for different reasons.
@@ -32,7 +32,6 @@ Good software design consists of classes or modules with **high cohesion** and *
 In the context of cohesion and coupling, this means that in order to achieve this, we want to **increase the cohesion** between things that change for the same reasons, and we want to **decrease the coupling** between those things that change for different reasons.
 
 In software, some examples of responsibilities that may need to be separated are the following:
-
 - Notification
 - Error handling
 - Logging
