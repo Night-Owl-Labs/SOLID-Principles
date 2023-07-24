@@ -93,7 +93,7 @@ A quick look at the top-level files and directories in this project. The example
 This repository is released under the **MITLicense**. [See LICENSE](LICENSE) for details.
 
 ## Credit
-**Author:** Scott Grivner<br>
+**Author:** [Scott Grivner](https://github.com/scottgriv)<br>
 **Email:** scott.grivner@nightowllabs.net<br>
 **Website:** [nightowllabs.net](https://www.nightowllabs.net)<br>
 **Reference:** [Main Branch](https://github.com/Night-Owl-Labs/java-solid_principles)
