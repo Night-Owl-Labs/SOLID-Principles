@@ -34,7 +34,11 @@
     - [4. Interface Segregation Principle (ISP)](#4-interface-segregation-principle-isp)
     - [5. Dependency Inversion Principle (DIP)](#5-dependency-inversion-principle-dip)
 - [Conclusion](#conclusion)
-- [Further Reading](#further-reading)
+- [Code Examples](#code-examples)
+- [What's Inside?](#whats-inside)
+- [Resources](#resources)
+- [License](#license)
+- [Credits](#credits)
 
 ## Introduction
 
