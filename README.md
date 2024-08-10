@@ -18,6 +18,12 @@
 
 <h1 align="center">SOLID Principles of Object Oriented Design (OOD)</h1>
 
+<div align="center">
+    <a href="https://github.com/Night-Owl-Labs/Software-Principles-Series" target="_blank">
+        <img src="./docs/images/series.png" width="500" />
+    </a>
+</div>
+
 **SOLID** is an acronym that represents five design principles intended to make software designs more maintainable, scalable, and flexible. These principles help developers create well-structured and robust code that is easier to understand, extend, and modify.
 
 ![SOLID](./docs/images/SOLID.png)
